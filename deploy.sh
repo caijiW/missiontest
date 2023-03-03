@@ -26,6 +26,6 @@ git commit -m 'deploy'
 # git push -f git@github-caiji:caijiW/caijiW.github.io.git main
 
 # if you are deploying to https://caijiW.github.io/testvue
-git push -f git@github-caiji:caijiW/testvue.git main:gh-pages
+git push -f git@github-caiji:caijiW/missiontest.git main:gh-pages
 
 cd -
